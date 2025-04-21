@@ -45,6 +45,8 @@ Install using pip:
 USAGE INSTRUCTIONS
 -------------------------------------------------------------------------------
 
+Depending on the size of the input file, it will take several minutes to initially show the progress bar.
+
 🔧 Default usage:
 
     python3 sqlite_duplicate_line_analyzer_16gb_benchmarked.py inputfile.txt
@@ -118,11 +120,5 @@ If the system crashes:
 ⚠️ Temporary `.partN` files may remain in the output folder
 ⚠️ The final output file may be incomplete
 ✅ You can safely rerun the script — it will regenerate everything from scratch
-
--------------------------------------------------------------------------------
-CREDITS & EXTENSIBILITY
--------------------------------------------------------------------------------
-
-This tool is ideal for security professionals, data engineers, researchers, and power users handling massive wordlists or text data.
 
 """
