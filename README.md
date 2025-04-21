@@ -46,8 +46,8 @@ USAGE INSTRUCTIONS
 -------------------------------------------------------------------------------
 
 Looks like it is frozen or stuck?
-Depending on the size of the input file, it will take several minutes to initially show the progress bar. 
-For example, a 163GB input file will take approx 8 minutes to show the progress bar.
+Depending on the size of the input file, it will take several minutes to initially show the progress bar.  
+For example, a 163GB input file (~14M lines) will take approx 8 minutes to show the progress bar.
 
 🔧 Default usage:
 
