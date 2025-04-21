@@ -45,7 +45,9 @@ Install using pip:
 USAGE INSTRUCTIONS
 -------------------------------------------------------------------------------
 
-Depending on the size of the input file, it will take several minutes to initially show the progress bar.
+Looks like it is frozen or stuck?
+Depending on the size of the input file, it will take several minutes to initially show the progress bar. 
+For example, a 163GB input file will take approx 8 minutes to show the progress bar.
 
 🔧 Default usage:
 
